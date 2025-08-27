@@ -3,14 +3,14 @@
     "id": "521a08d956e784b8",
     "username": "Sahal",
     "password": "Sahal123",
-    "expiresAt": "2025-09-04",
+    "expiresAt": "2028-12-12",
     "allowOffline": true
   },
   {
-    "id": "521a08d956e784b8",
-    "username": "Sahal",
-    "password": "Sahal123",
-    "expiresAt": "2025-09-04",
-    "allowOffline": true
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
